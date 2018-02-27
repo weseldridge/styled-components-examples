@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from "styled-components";
 
-const CardBody = styled.section`
+const CardBody = styled.div`
     width: auto;
     overflow: auto;
     clear: both;

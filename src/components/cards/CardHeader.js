@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from "styled-components";
 
-const CardHeader = styled.section`
+const CardHeader = styled.div`
     background-color: #2196f3;
     width: auto;
     overflow: auto;
